@@ -1,0 +1,66 @@
+# Teoría de la Intención Electromagnética Humana (IEH)
+
+**Autor:** \[Tu nombre o seudónimo]
+**Fecha de concepción:** 6 de agosto de 2025
+
+---
+
+## Resumen
+
+Esta teoría propone que la **intención humana** modula los campos electromagnéticos generados por el cuerpo (cerebro, corazón, sistema nervioso), y que dichas modulaciones podrían ser percibidas por otros organismos o interferir en dispositivos electrónicos.
+
+Plantea una posible explicación científica para fenómenos como la intuición, la empatía espontánea e incluso experiencias catalogadas como paranormales.
+
+---
+
+## Fundamentos
+
+* **Ondas electromagnéticas:** Todo flujo eléctrico genera un campo EM; esto incluye la bioelectricidad humana.
+* **Campos EM humanos:** El corazón y el cerebro producen campos medibles (ECG, EEG) que varían según emociones e intenciones.
+* **Analogía tecnológica:** Al igual que los dispositivos conectados por Wi‑Fi, los humanos podrían interactuar a través de estos campos.
+
+---
+
+## Hipótesis
+
+La intención humana altera el patrón EM corporal (frecuencia, amplitud, fase).
+Otros humanos pueden percibir estas variaciones, funcionando como una **“red inalámbrica biológica”**.
+
+---
+
+## Predicciones
+
+* Cambios en patrones EM durante estados emocionales/intencionales dirigidos.
+* Sincronización de ondas cerebrales y cardíacas entre individuos cercanos.
+* Influencia medible sobre sistemas electrónicos sensibles en momentos de fuerte intención.
+
+---
+
+## Implicaciones
+
+* **Neurociencia:** Nueva forma de entender la consciencia y la comunicación humana.
+* **Tecnología:** Interfaces mente‑máquina basadas en intención.
+* **Fenómenos paranormales:** Explicación científica de experiencias hasta ahora misteriosas.
+
+---
+
+## Estado del proyecto
+
+Este repositorio documenta la idea inicial y busca colaboradores para desarrollarla y validarla experimentalmente.
+
+---
+
+## Licencia
+
+Se recomienda usar **Creative Commons BY-NC 4.0**:
+
+* Puedes compartir y citar la teoría dando crédito al autor.
+* No se permite uso comercial sin autorización.
+
+---
+
+## Cómo citar
+
+> \[Tu nombre o seudónimo], *Teoría de la Intención Electromagnética Humana (IEH)*, 2025. Disponible en: \[URL de este repositorio]
+
+---
