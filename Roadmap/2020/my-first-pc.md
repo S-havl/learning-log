@@ -1,3 +1,0 @@
-Before 2020, I only used my old cellphone, mainly to play video games. Although I was quite skilled at using it, I had always been curious and eager to own a computer. I often watched gameplay videos of PC games as a way to inspire myself and learn more.
-
-In 2020, with the onset of the COVID-19 pandemic and the sudden shift to virtual classes, there was an urgent need to have a proper device to continue my education. That’s when my parents bought me a computer. At first, I used it to play Minecraft—a game I had always wanted to try. However, over time, I began to explore beyond gaming and learned to use the computer more effectively, building on the knowledge I had already acquired from the videos I used to watch on my phone.
